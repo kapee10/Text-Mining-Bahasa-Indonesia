@@ -2,7 +2,7 @@
 
 Mari belajar cara komputer memahami bahasa manusia :D
 
-Big shoutout to all the creators below,
+Big shout-out to all the creators below,
 
 1. @rizalespe for providing the master dataset (`dataset_tweet_sentimen_tayangan_tv.csv`) and also Indonesian stopwords (`stopword indonesia.csv`) <br>
 https://github.com/rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia
